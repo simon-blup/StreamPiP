@@ -1,6 +1,6 @@
 <div align="center">
 
-# STREAM-PIP
+# StreamPiP
 <sub>Enhanced Picture-in-Picture for Twitch and YouTube</sub>
 
 <p align="center" style="font-size: 14px; color: #666; margin-top: 10px;">
@@ -20,7 +20,7 @@
     * Open Google Chrome and navigate to `chrome://extensions/`.
     * Toggle <u>**Developer mode**</u> (top right corner).
     * Click <u>**Load unpacked**</u> and select the extracted folder.
-
+4. **Open**: 
 <br>
 <div align="center">
 
