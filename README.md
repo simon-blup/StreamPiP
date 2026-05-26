@@ -6,6 +6,12 @@ STREAM-PIP integrates Twitch chat and YouTube comments directly into your Pictur
 
 ![Preview](download.gif)
 
+<div align="center">
+  <img src="img1.png" width="300" style="margin: 0 10px;" />
+  <img src="img3.png" width="300" style="margin: 0 10px;" />
+  <img src="img2.png" width="300" style="margin: 0 10px;" />
+</div>
+
 ### Installation
 
 1. **Download**: Download this repository as a ZIP file.
