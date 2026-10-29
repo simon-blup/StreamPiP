@@ -33,15 +33,6 @@
 
 ---
 
-### Support the project
-Publishing extensions <u>on the Chrome Web Store</u> requires a one-time $5 developer fee. If you'd like to support the development and see this project officially on the store **with even more features**, consider donating. In the meantime, <u>it will remain free and open-source right here.</u>
-
-<p align="center">
-  <img src="qr_code.png" width="150" />
-</p>
-
----
-
 <p align="center">
   <sub>Created by Simon</sub>
 </p>
